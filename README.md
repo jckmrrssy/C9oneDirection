@@ -14,44 +14,26 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-$ https://github.com/jckmrrssy/Drink-Order.git
+$ https://github.com/jckmrrssy/C9oneDirection.git
 ```
 SSH:
 ````
-$ git@github.com:jckmrrssy/Drink-Order.git
+$ git@github.com:jckmrrssy/C9oneDirection.git
 ````
-
-Next, cd into the repository you cloned and install the necessary dependencies by running:
-````
-$ yarn install
-````
-
-You will then be able to start the app locally by runnning:
-````
-$ yarn start
-````
+There is no back-end to this project, so you just need to open index.html in the browser of your choice to get the application running. 
 
 ### [Demo](link to demo)
 
 ## Built With
 
-* [MongoDB](https://www.mongodb.com/) - NoSQL Database
-* [Express.js](https://expressjs.com/) - Node.js framework
-* [React.js](https://reactjs.org/) - MVC front-end framework 
-* [Node.js](https://nodejs.org/en/) - JavaScript runtime
-* [Yarn](https://yarnpkg.com/en/) - Dependency management
-* [Materialize](https://materializecss.com/) - CSS framework
-* [Auth0](https://auth0.com/) - Authentication platform
+* [Boostrap](https://www.mongodb.com/) - CSS Framework
+* [jQuery/Ajax](https://jquery.com/) - Front-end framework & API calls
 
 ## Authors
 
-See the list of [contributors]() who participated in this project along with individual commit history. 
+See the list of [contributors](https://github.com/jckmrrssy/C9oneDirection/graphs/contributors) who participated in this project along with individual commit history. 
 
 ## Planned updates
 
-As a team, we were able to wireframe our project rather quickly.  It was decided that we wanted to provide the ability to search for professionals (therapists, physicians, etc.), for symptoms/specific illnesses, and medications and their side effects. Users are able to get a overview through embedded videos of what some illnesses are, what kinds of psychotherapy are available, and hear stories of success/motivation.  A stress relieving game was created, as was a POD specific chatroom.
-
-To achieve our product we implemented Bootstrap Carousels and Video Cards, Geolocation to find nearby resources such as psychiatrists and clinics, Packetcode, Firebase, APIs from Yelp, the FDA, Google Maps, and one that allowed users to search for symptoms and diagnoses.
-
-Project members (and github name): Kristen Fairman (klfairman), Thomas Fitzer (thomasfitzer), Jack Morrisey (jckmrrsy), Isaiah Ramsey (Iramsey0418), Denis Jeong (denisplaster).
+In the future, we would like to build this into a platform with some more features outside of information consolidation - such as a discussion board and the ability to chat with someone when you're in need of help. 
 
