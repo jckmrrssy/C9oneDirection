@@ -26,7 +26,7 @@ There is no back-end to this project, so you just need to open index.html in the
 
 ## Built With
 
-* [Boostrap](https://www.mongodb.com/) - CSS Framework
+* [Bootstrap](https://www.mongodb.com/) - CSS Framework
 * [jQuery/Ajax](https://jquery.com/) - Front-end framework & API calls
 
 ## Authors
