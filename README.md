@@ -4,6 +4,8 @@ Project One Direction was created as a resource for those experiencing possible 
 
 ## [Deployed Link](https://p1d.herokuapp.com/index.html)
 
+![image](./assets/images/pod.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
