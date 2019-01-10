@@ -4,9 +4,15 @@ Project One Direction was created as a resource for those experiencing possible 
 
 ## [Deployed Link](https://p1d.herokuapp.com/index.html)
 
-## Watch a demo [here](https://drive.google.com/open?id=1hUUQh9viKC6Mzk2OWsMoHYPQWKBYDr7T)
-
+#### Home Page
 ![image](./assets/images/pod.png)
+
+#### Results from Yelp/Google API 
+![image](./assets/images/yelp:google.png)
+
+#### Resources Page
+![image](./assets/images/resourcePod.png)
+
 
 ## Getting Started
 
